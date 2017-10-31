@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* [Power without Pollution](power-without-pollution.md)
+* [11. Power without Pollution](power-without-pollution.md)
 
