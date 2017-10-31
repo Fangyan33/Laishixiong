@@ -73,6 +73,57 @@ It is your duty to protect your children. \(你有责任保护自己的小孩\)
 
 例: I am thinking of starting my business next year.
 
+### Grammar Points.
+
+1.     pollution is a big problem in **almost all** the big cities of the world. 
+    
+
+2.     da djasfjdakls jkldajsklf 
+
+3.  
+
+
+
+1. das
+2. fda
+3. fda
+4. fda
+5. fa
+6. fa
+7. fads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
