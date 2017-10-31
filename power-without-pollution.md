@@ -12,8 +12,6 @@ power failure 停电
 
 例: Make sure you have some candles at home in case of a power failure.
 
-
-
 ##### pollution  n. 污染
 
 pollute vt. 污染
@@ -26,8 +24,6 @@ air pollution 空气污染
 
 例: The campers polluted the river with their garbage.
 
-
-
 ##### worried  a. 担心的，忧虑的
 
 worry  vt. & n. 担心，担忧
@@ -38,8 +34,6 @@ be worried about 担心……
 
 The happy couple  don't seem to have a worry in the world.
 
-
-
 ##### get rid of ...   除去，戒掉
 
 rid   vt. 免除，除去 （动词三态均为 rid）
@@ -49,91 +43,35 @@ rid   vt. 免除，除去 （动词三态均为 rid）
 > 例: The boss should get rid of tha lazy worker. =  The boss should rid himself of that lazy worker.  
 > \(老板把那个懒惰的员工开除）
 
-##### 
-
 ##### be concerned about 关心 ...
 
 concerned  a. 关切得
 
 例: Mary is too concerend about her looks. （玛丽太在乎她的外表）
 
-##### 
-
 ##### protect  vt. 保护
 
 It is your duty to protect your children. \(你有责任保护自己的小孩\)
 
-##### 
-
 ##### environment n. 环境
 
-例：The writer needs a quiet environment to do his work. 
-
-##### 
+例：The writer needs a quiet environment to do his work.
 
 ##### Ireland  n. 爱尔兰
 
-##### 
-
 ##### windmill n. 风车
-
-##### 
 
 ##### create  vt. 产生，创造，制造
 
-例：when you go for job interview, it is important to create a good first impression. 
-
-
+例：when you go for job interview, it is important to create a good first impression.
 
 ##### method n. 方法
 
-例: My father's method of bringing children up is really old-fashioned. 
+例: My father's method of bringing children up is really old-fashioned.
 
 ##### think of...   考虑...
 
-例: I am thinking of starting my business next year. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+例: I am thinking of starting my business next year.
 
 * 大s发大水
 
