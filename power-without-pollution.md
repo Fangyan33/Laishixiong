@@ -75,13 +75,14 @@ It is your duty to protect your children. \(你有责任保护自己的小孩\)
 
 ### Grammar Points.
 
-*     pollution is a big problem in **almost all** the big cities of the world.     almost 用来修饰形容词或副词时，这些词必需具有 【完全】 的概念，所以 all, any, every, no 等都可以与almost 并用，但没有almost most 或者 almost many 的用法，因为most 或many 只表示部分，没有完全的概念。     例: Almost many sailors are good swimmers. \(x\)           Almost all sailors are good swimmers. \(√\)           Almost every school has a basketball court. \(√\)     almost 与 always 并用时需置于前。     例: My father is almost always in a good mood. \(我父亲几乎总是心情很好\)
+* pollution is a big problem in **almost all** the big cities of the world.       
+  almost 用来修饰形容词或副词时，这些词必需具有 【完全】 的概念，所以 all, any, every, no 等都可以与almost 并用，但没有almost most 或者 almost many 的用法，因为most 或many 只表示部分，没有完全的概念。     例: Almost many sailors are good swimmers. \(x\)           Almost all sailors are good swimmers. \(√\)           Almost every school has a basketball court. \(√\)     almost 与 always 并用时需置于前。     例: My father is almost always in a good mood. \(我父亲几乎总是心情很好\)
 
-*     City people are, therefore, becoming more an more worried **about how they can get rid of pollution**.     They are also concerned **about wether the government is doing enougth to protect environment**.     how 与wether 引导的名词从句分别作介词about 的宾语。     例: The professor spoke on how we should behave at job interview.
+* City people are, therefore, becoming more an more worried **about how they can get rid of pollution**.     They are also concerned **about wether the government is doing enougth to protect environment**.     how 与wether 引导的名词从句分别作介词about 的宾语。     例: The professor spoke on how we should behave at job interview.
 
-*     They are sure that they found **the answer to the problem**.     有些名词固定要与to 并用，主要是此类名词通常表示“针对“ 的意思。常见的有key，answer，road，solution等。     the key of the room \(x\) -&gt; the key to room \(√\)     the key of success \(x\) -&gt; the key to success \(√\)     the road of victory \(x\) -&gt; the road to victory \(√\)     the answer/solution of problem \(x\) -&gt; the answer/solution to problem \(√\)
+* They are sure that they found **the answer to the problem**.     有些名词固定要与to 并用，主要是此类名词通常表示“针对“ 的意思。常见的有key，answer，road，solution等。     the key of the room \(x\) -&gt; the key to room \(√\)     the key of success \(x\) -&gt; the key to success \(√\)     the road of victory \(x\) -&gt; the road to victory \(√\)     the answer/solution of problem \(x\) -&gt; the answer/solution to problem \(√\)
 
-*     This method is so successful that other countries are thinking of doing the same.     doing the same = doing the same thing. same 本来是形容词但在本句中做代词用，其后省略了名词thing     so + adj./adv. + that ...    如此……以至于……     such + n. + that ...    如此……以至于……     It's so hot that we can't do without an air conditioner.  （天气太热了，以至于我们少不了空调。）     He is such a genius that he doesn't have to study much for exams. \(他是一个天才，所以他考试都不用怎么学习。\)
+* This method is so successful that other countries are thinking of doing the same.     doing the same = doing the same thing. same 本来是形容词但在本句中做代词用，其后省略了名词thing     so + adj./adv. + that ...    如此……以至于……     such + n. + that ...    如此……以至于……     It's so hot that we can't do without an air conditioner.  （天气太热了，以至于我们少不了空调。）     He is such a genius that he doesn't have to study much for exams. \(他是一个天才，所以他考试都不用怎么学习。\)
 
 
 
