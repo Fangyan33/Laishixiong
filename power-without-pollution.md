@@ -73,10 +73,15 @@ It is your duty to protect your children. \(你有责任保护自己的小孩\)
 
 例: I am thinking of starting my business next year.
 
-### Grammar Points.
+### Grammar Points. 
 
-* pollution is a big problem in **almost all** the big cities of the world.       
-  almost 用来修饰形容词或副词时，这些词必需具有 【完全】 的概念，所以 all, any, every, no 等都可以与almost 并用，但没有almost most 或者 almost many 的用法，因为most 或many 只表示部分，没有完全的概念。     例: Almost many sailors are good swimmers. \(x\)           Almost all sailors are good swimmers. \(√\)           Almost every school has a basketball court. \(√\)     almost 与 always 并用时需置于前。     例: My father is almost always in a good mood. \(我父亲几乎总是心情很好\)
+*     pollution is a big problem in **almost all** the big cities of the world.  
+      almost 用来修饰形容词或副词时，这些词必需具有 【完全】 的概念，所以 all, any, every, no 等都可以与almost 并用，但没有almost most 或者 almost many 的用法，因为most 或many 只表示部分，没有完全的概念。       
+      例: Almost many sailors are good swimmers. \(x\)             
+      Almost all sailors are good swimmers. \(√\)             
+      Almost every school has a basketball court. \(√\)       
+      almost 与 always 并用时需置于前。       
+      例: My father is almost always in a good mood. \(我父亲几乎总是心情很好\)
 
 * City people are, therefore, becoming more an more worried **about how they can get rid of pollution**.     They are also concerned **about wether the government is doing enougth to protect environment**.     how 与wether 引导的名词从句分别作介词about 的宾语。     例: The professor spoke on how we should behave at job interview.
 
