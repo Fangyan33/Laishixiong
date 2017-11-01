@@ -1,4 +1,4 @@
-## Power Without Pollution
+# Power Without Pollution
 
 Pollution is a big problem in almost all the big cities of the world. City people are, therefore, becoming more and more worried about how they can get rid of pollution. They also concerned whether the government is doing enough to protect the environment.
 
