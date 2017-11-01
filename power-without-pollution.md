@@ -4,7 +4,7 @@ Pollution is a big problem in almost all the big cities of the world. City peopl
 
 However, people in Ireland don't have these worries. They are sure that they have found the answer to the problem. They use windmills. These windmills can create power without creating pollution. This method so is successful that other countries are thinking of doing the same. Why not? What works for Ireland can works for other countries.
 
-## Vocabulary & Idioms
+### Vocabulary & Idioms
 
 ##### power 能源
 
@@ -99,7 +99,7 @@ They are sure that they found **the answer to the problem**.
   the road of victory \(x\) -&gt; the road to victory \(√\)     
   the answer/solution of problem \(x\) -&gt; the answer/solution to problem \(√\)
 
-This method is so successful that other countries are thinking of doing the same.     
+This method is so successful that other countries are thinking of doing the same.
 
 * doing the same = doing the same thing. same 
   本来是形容词但在本句中做代词用，其后省略了名词thing     
