@@ -1,5 +1,7 @@
 # Power Without Pollution
 
+## Text
+
 Pollution is a big problem in almost all the big cities of the world. City people are, therefore, becoming more and more worried about how they can get rid of pollution. They also concerned whether the government is doing enough to protect the environment.
 
 However, people in Ireland don't have these worries. They are sure that they have found the answer to the problem. They use windmills. These windmills can create power without creating pollution. This method so is successful that other countries are thinking of doing the same. Why not? What works for Ireland can works for other countries.
@@ -107,6 +109,10 @@ This method is so successful that other countries are thinking of doing the same
   such + n. + that ...    如此……以至于……     
   It's so hot that we can't do without an air conditioner.  （天气太热了，以至于我们少不了空调。）     
   He is such a genius that he doesn't have to study much for exams. \(他是一个天才，所以他考试都不用怎么学习。\)
+
+## Substiution
+
+
 
 
 
