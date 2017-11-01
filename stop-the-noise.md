@@ -22,25 +22,21 @@ C: Uh...
 
 ##### noise n. 噪音 （常与动词make 并用\)
 
-    例: If you make a noise at night, my dog will surely bark. 
+例: If you make a noise at night, my dog will surely bark. 
 
-##### neighbor n. 邻居 
+##### neighbor n. 邻居
 
-    My neighbor and I get along very well. 
+My neighbor and I get along very well. 
 
 ##### have a word with + 人 和某人谈话
 
-    I wonder why my teacher wants to have a word with my parents. 
+I wonder why my teacher wants to have a word with my parents. 
 
 ##### be tired of ... 厌烦…… 受够了……
 
-= be sick of ... 
+= be sick of ...
 
 = be fed up with ...
 
-I'm tired of taking so much tests in school. 
-
-
-
-
+I'm tired of taking so much tests in school.
 
