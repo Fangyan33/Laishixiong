@@ -40,13 +40,33 @@ I'm tired of taking so much tests in school.
 
 ##### on purpose 故意的，有意的
 
-= intentionally adv. 
+= intentionally adv.
 
 = deliberately adv.
 
-I don't step on that old lady's foot on purpose. 
+I don't step on that old lady's foot on purpose.
 
-John deliberately failed the test to get his father angray. 
+John deliberately failed the test to get his father angray.
+
+##### can do without ... 无……也可以
+
+cannot do without ... 无……则不行
+
+本短语中的do 是不及物动词，表示过得去的意思。
+
+In fact, we can do without your help. \(其实，我们没有你的帮助也行\)
+
+Fish cannot do without water. （鱼没有水不行）
+
+##### absolutely     adv. 完全的，绝对的
+
+There's absolutely no truth in what he said. 
+
+##### By the way, 主语 + 动词    哦，对了……
+
+By the way, when is your son coming home from abroad? 
+
+
 
 
 
