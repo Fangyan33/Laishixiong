@@ -114,3 +114,8 @@ This method is so successful that other countries are thinking of doing the same
 
 City people are, therefore, becoming more and more worried about how they can get rid of pollution.
 
+* The article deals with how we can avoid getting AIDS. \(这篇文章主要叙述如何才能避免艾滋病 \)
+* The boss touched on why he fired the worker. （老板提到了他为什么开出那个员工）
+
+
+
