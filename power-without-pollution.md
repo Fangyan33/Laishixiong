@@ -117,10 +117,10 @@ City people are, therefore, becoming more and more worried about how they can ge
 * The article deals with how we can avoid getting AIDS. \(这篇文章主要叙述如何才能避免艾滋病 \)
 * The boss touched on why he fired the worker. （老板提到了他为什么开出那个员工）
 
-They are sure that they have found the answer to the problem. 
+They are sure that they have found the answer to the problem.
 
 * Mike thinks he has the key to success. \(麦克认为他拥有取得成功的钥匙\)
-* The coach said that the road to success is through practice. \(教练说成功之路是通过练习\)
+* The coach said that the road to success is through practice. \(教练说成功之路就是通过练习\)
 
 
 
