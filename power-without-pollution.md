@@ -112,7 +112,5 @@ This method is so successful that other countries are thinking of doing the same
 
 ## Substiution
 
-
-
-
+City people are, therefore, becoming more and more worried about how they can get rid of pollution.
 
