@@ -21,11 +21,19 @@ warn + that 从句    警告说……
 warn + 人 + against 名词 / 动名词    警告某人不要……
 warn + 人 + of + 事    警告某人某事
 
-> The weather bureau warned that a fierce typhoon is approaching. 
+> The weather bureau warned that a fierce typhoon is approaching.  
 > *fierce    a.    (风雨等)强劲的*
 >
 > The teather warend the new student against cutting class. 
+> (老师警告新学生不要旷课)
+>
 > This sign warns people of the dangers of swimming too far out. 
+> (这个标示警告人们游的太远很危险)
+
+##### cause vt.  导致，造成
+
+> The driver's carelessness caused the terrible accident. 
+>(那个司机的粗心大意导致了这场可怕的车祸)
 
 
 
