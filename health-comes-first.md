@@ -20,7 +20,7 @@ warn + that 从句    警告说……
 warn + 人 + against 名词 / 动名词    警告某人不要……
 warn + 人 + of + 事    警告某人某事
 The weather bureau warned that a fierce typhoon is approaching. 
-  fierce    a.    (风雨等)强劲的
+`fierce`    a.    (风雨等)强劲的
 The teather warend the new student against cutting class. 
 
 
