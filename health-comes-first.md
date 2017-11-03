@@ -112,41 +112,55 @@ Peter played better than ever and won the tennis game easily.
 
 Smoking is bed **in that** it is harmful to one's health.  
 
-这里 **in that** 为【副词连词】，而不是“(介词) in + that 从句”，这里相当于 because 的意思。
-
-in that 与 because 区别：
+这里 **in that** 为【副词连词】，而不是“(介词) in + that 从句”，这里相当于 because 的意思。in that 与 because 区别：
 in that 一般放在主句之后，不是句首。
 because 可放在主句句首，主从之间中间用逗号隔开。也可放在主句句尾不加逗号
 
-Jogging is good for you in that it helps you keep fit.  
- （慢跑对你来说很好，因为它有助于保持身体健康。）
+* Jogging is good for you in that it helps you keep fit.  
+  （慢跑对你来说很好，因为它有助于保持身体健康。）
 
-Because he is so shy, he seldom goes out with girls. 
- (因为他很害羞，所以很少和女孩出去)
- = He seldom goes out with girls because he is so shy.
-   
-  
+* Because he is so shy, he seldom goes out with girls. 
+  (因为他很害羞，所以很少和女孩出去)
+  = He seldom goes out with girls because he is so shy.  
+
+#### 介词 + the fact + that 从句
+
+**In spite of the fact that** dotcors have even warned that it causes cancer, people still keep on smoking.  
+
+in spite of ...  尽管/虽然……  
+ = despite ... prep. 
+ 
+1. 上述句子中的 in spite of 是【短语介词】（即多个单词形成的介词），despite 是介词。
+2. 因为that 引导的名词从句不可以作介词的宾语，所以在in spite of 后面加 the fact 作为宾语，然后再接that 从句
+3. 最后接 that 从句
+
+例句：
+
+* In spite of woking two jobs, Mr. Chen can hardly make ends meet.  
+   = Despite working two jobs, Mr. Chen can hardly makes ends meet.
+   (尽管兼了两份工作，陈先生依然入不敷出)
+* **In spite of that** I lent my friend US$1 million, his company went bankrupt.  (X) 
+   *
 
 
- 
- 
- 
- 
- ta
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
