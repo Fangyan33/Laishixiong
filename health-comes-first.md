@@ -98,6 +98,16 @@ _ * 本文 greater  为 great 的比较级_
 The doves gather in park in greate numbers.  
  （大量的鸽子聚集在公园）
 
+#### than ever  
+
+含有【比较级形容词或副词】的从句 + than ever  
+ (比以往更……)
+ 
+Peter played better than ever and won the tennis game easily.  
+ (Peter 比以往打得都好轻松赢的了网球比赛)
+ 
+## Grammar Points
+
 
  
  
