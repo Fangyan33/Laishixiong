@@ -14,6 +14,8 @@ be in good health 健康
 
 
 
+
+
 be In poor health 健康不佳
 
 My grandpa is old but in good health. （我祖父老了，但身体很好）
