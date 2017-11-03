@@ -131,16 +131,28 @@ in spite of ...  尽管/虽然……
  = despite ... prep. 
  
 1. 上述句子中的 in spite of 是【短语介词】（即多个单词形成的介词），despite 是介词。
+
 2. 因为that 引导的名词从句不可以作介词的宾语，所以在in spite of 后面加 the fact 作为宾语，然后再接that 从句
+
 3. 最后接 that 从句
 
-例句：
+例：
 
 * In spite of woking two jobs, Mr. Chen can hardly make ends meet.  
    = Despite working two jobs, Mr. Chen can hardly makes ends meet.
    (尽管兼了两份工作，陈先生依然入不敷出)
-* **In spite of that** I lent my friend US$1 million, his company went bankrupt.  (X) 
-   *
+
+* **In spite of that** I lent my friend US$1 million, his company went bankrupt. (X) 
+   -> In spite of the fact that I lent my friend US$1 million, his company went bankrupt. (√)  
+   （虽然我借给我朋友1百万，但是他仍然破产了）
+
+类似用法还有：
+be curious about the fact that + 从句 （对……感到好奇）
+
+例：
+I'm curious about the fact that the lights are always on in my neighbors's house.  
+
+
 
 
 
