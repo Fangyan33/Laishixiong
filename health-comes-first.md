@@ -4,13 +4,13 @@
 
 Smoking is bad that it is harmful to one's health. In spite of fact that doctors have even warned that it causes cancer, people still keep on smoking.
 
-In some Western countries, however, people are begining to kick of the bad habit. They realize that health should come first. To help them quit smoking, there are laws against cigarette advertising and smoking in public place. This is praiseworthy except that Western countries are now selling cigarettes in the East in greater numbers than ever. That they are doing is in immoral, don't you think. 
+In some Western countries, however, people are begining to kick of the bad habit. They realize that health should come first. To help them quit smoking, there are laws against cigarette advertising and smoking in public place. This is praiseworthy except that Western countries are now selling cigarettes in the East in greater numbers than ever. That they are doing is in immoral, don't you think.
 
 ## Vocabulary & idioms
 
 ##### health n. 健康
 
-  be in good health 健康
+   be in good health 健康
 
 be In poor health 健康不佳
 
@@ -31,52 +31,4 @@ warn + 人 + against 名词 / 动名词    警告某人不要……
 warn + 人 + of + 事    警告某人某事
 
 The weather bureau
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
