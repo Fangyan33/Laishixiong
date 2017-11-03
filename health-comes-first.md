@@ -25,6 +25,7 @@ warn + 人 + of + 事    警告某人某事
 > *fierce    a.    (风雨等)强劲的*
 >
 > The teather warend the new student against cutting class. 
+> This sign warns people of the dangers of swimming too far out. 
 
 
 
