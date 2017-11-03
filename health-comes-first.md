@@ -117,12 +117,22 @@ Smoking is bed **in that** it is harmful to one's health.
 in that 与 because 区别：
 in that 一般放在主句之后，不是句首。
 because 可放在主句句首，主从之间中间用逗号隔开。也可放在主句句尾不加逗号
+
+Jogging is good for you in that it helps you keep fit.  
+ （慢跑对你来说很好，因为它有助于保持身体健康。）
+
+Because he is so shy, he seldom goes out with girls. 
+ (因为他很害羞，所以很少和女孩出去)
+ = He seldom goes out with girls because he is so shy.
+   
+  
+
+
  
  
  
  
- 
- 
+ ta
  
  
  
