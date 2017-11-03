@@ -10,7 +10,7 @@ In some Western countries, however, people are begining to kick of the bad habit
 
 ##### health n. 健康
 
-    be in good health 健康
+be in good health 健康
 
 be In poor health 健康不佳
 
