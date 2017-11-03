@@ -36,7 +36,8 @@ warn + 人 + of + 事    警告某人某事
 
 ##### cause vt.  导致，造成
 
-* The driver's carelessness caused the terrible accident.（那个司机的粗心大意导致了这场可怕的车祸）
+* The driver's carelessness caused the terrible accident.  
+   （那个司机的粗心大意导致了这场可怕的车祸）
    
 ##### cancer n. 癌症
 
