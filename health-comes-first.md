@@ -14,7 +14,7 @@ My grandpa is old but in good health. （我祖父老了，但身体很好）
 
 ##### be harmful to ...    对......有害
 harmful     a.    有害的
-Working at a computer all day is harmful to the eyes. \(整天用电脑工作对眼睛有害\)
+`Working at a computer all day is harmful to the eyes. (整天用电脑工作对眼睛有害)`
 
 ##### warn    vt.    警告，告诫
 warn + that 从句    警告说……
