@@ -16,7 +16,8 @@ be In poor health 健康不佳
 ##### be harmful to ...    对......有害
 
 harmful     a.    有害的
-* Working at a computer all day is harmful to the eyes. (整天用电脑工作对眼睛有害)`
+* Working at a computer all day is harmful to the eyes.  
+   (整天用电脑工作对眼睛有害)
 
 ##### warn    vt.    警告，告诫
 
