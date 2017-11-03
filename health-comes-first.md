@@ -58,7 +58,7 @@ The woman kept on nagging her husband till he eventually left her.
 = get rid of the bad habit
 
 I wish that I could kick the bad habit of going to bed late every night. 
-（我希望自己可以戒掉每晚晚睡的坏习惯)
+ （我希望自己可以戒掉每晚晚睡的坏习惯)
 
 #### quit smoking 戒烟
  
@@ -67,10 +67,38 @@ I wish that I could kick the bad habit of going to bed late every night.
 quite  v.  停止；放弃
 动词三态均为quite
  
-**注意**
+> **注意**
 quit + 名词 / 动名词 （√）  
 ~~quit + to + 动词~~ （×）
  
+The doctor warned the alcoholic to quite drinking once and for all.  
+ (医生告诫那个酗酒者要他彻底戒酒)
+
+#### cigarette  n.  香烟
+
+#### advertising  n.  广告
+
+advertise  vt.  为……做广告；登广告
+
+I advertised my old car for sale.  
+ （我登广告卖我的车）
+
+Mr.Wang advertised for a maid.  
+ （王先生登广告招聘女佣）
+
+#### praiseworthy  a.  值得赞许
+
+Mr.Chen's teaching skill are praiseworthy.  
+ (陈先生的教学技巧值得赞许)
+
+#### in great numbers  大量的
+
+_ * 本文 greater  为 great 的比较级_
+
+The doves gather in park in greate numbers.  
+ （大量的鸽子聚集在公园）
+
+
  
  
  
