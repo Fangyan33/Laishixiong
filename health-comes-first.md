@@ -108,7 +108,15 @@ Peter played better than ever and won the tennis game easily.
  
 ## Grammar Points
 
+#### in that 
 
+Smoking is bed **in that** it is harmful to one's health.  
+
+这里 **in that** 为【副词连词】，而不是“(介词) in + that 从句”，这里相当于 because 的意思。
+
+in that 与 because 区别：
+in that 一般放在主句之后，不是句首。
+because 可放在主句句首，主从之间中间用逗号隔开。也可放在主句句尾不加逗号
  
  
  
