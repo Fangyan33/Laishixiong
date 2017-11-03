@@ -60,32 +60,37 @@ The woman kept on nagging her husband till he eventually left her.
 I wish that I could kick the bad habit of going to bed late every night. 
 （我希望自己可以戒掉每晚晚睡的坏习惯)
 
- ##### 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### quit smoking 戒烟
+ 
+= give up smoking
+ 
+quite  v.  停止；放弃
+动词三态均为quite
+ 
+**注意**
+quit + 名词 / 动名词 （√）  
+~~quit + to + 动词~~ （×）
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
