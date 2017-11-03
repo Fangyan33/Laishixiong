@@ -48,7 +48,8 @@ lung cancer 肺癌
 = keep + Ving
 
 * The woman kept on nagging her husband till he eventually left her.  
-   (那个女人一直对她老公唠叨个没完，直到他最好离开了她)*nag vt.  唠叨，絮叨不停*
+   (那个女人一直对她老公唠叨个没完，直到他最好离开了她)    
+   *nag vt.  唠叨，絮叨不停*
 
 ##### kick the bad habit  戒掉这个坏习惯
 
