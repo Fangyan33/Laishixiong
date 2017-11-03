@@ -46,6 +46,7 @@ lung cancer 肺癌
 ##### keep on + Ving  继续……
 
 = keep + Ving
+
 * The woman kept on nagging her husband till he eventually left her.  
    (那个女人一直对她老公唠叨个没完，直到他最好离开了她)*nag vt.  唠叨，絮叨不停*
 
