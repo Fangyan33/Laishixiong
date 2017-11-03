@@ -7,20 +7,20 @@ In some Western countries, however, people are begining to kick of the bad habit
 
 ## Vocabulary & idioms
 
-##### health n. 健康
+#### health n. 健康
 
 be in good health 健康  
 be In poor health 健康不佳  
 * My grandpa is old but in good health. （我祖父老了，但身体很好）  
 
-##### be harmful to ...    对......有害
+#### be harmful to ...    对......有害
 
 harmful     a.    有害的
 
 Working at a computer all day is harmful to the eyes.  
  (整天用电脑工作对眼睛有害)
 
-##### warn    vt.    警告，告诫
+#### warn    vt.    警告，告诫
 
 warn + that 从句    警告说……
 warn + 人 + against 名词 / 动名词    警告某人不要……
@@ -36,16 +36,16 @@ The teather warend the new student against cutting class.
 This sign warns people of the dangers of swimming too far out.  
  (这个标示警告人们游的太远很危险)
 
-##### cause vt.  导致，造成
+#### cause vt.  导致，造成
 
 The driver's carelessness caused the terrible accident.  
  （那个司机的粗心大意导致了这场可怕的车祸）     
    
-##### cancer n. 癌症
+#### cancer n. 癌症
 
 lung cancer 肺癌
 
-##### keep on + Ving  继续……
+#### keep on + Ving  继续……
 
 = keep + Ving
 
@@ -53,7 +53,7 @@ The woman kept on nagging her husband till he eventually left her.
  (那个女人一直对她老公唠叨个没完，直到他最好离开了她)  
    *nag vt.  唠叨，絮叨不停*   
 
-##### kick the bad habit  戒掉这个坏习惯
+#### kick the bad habit  戒掉这个坏习惯
 
 = get rid of the bad habit
 
