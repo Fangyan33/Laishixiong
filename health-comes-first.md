@@ -25,7 +25,6 @@ Working at a computer all day is harmful to the eyes. \(整天用电脑工作对
 ##### warn    vt.    警告，告诫
 
 warn + that 从句    警告说……
-
 warn + 人 + against 名词 / 动名词    警告某人不要……
 warn + 人 + of + 事    警告某人某事
 
