@@ -24,7 +24,7 @@ quit 为不及物动词这里表示戒掉；"cold turkey" 原为名词，表示�
 
 例：Trying to quit smoking slowly doesn't work. you've got to quit cold turkey.  
 
-quit + doing 
+quit + doing sth.  不要再做某事了
 
 Quit asking me so many questions. （不要再问我这么多问题了）
 
