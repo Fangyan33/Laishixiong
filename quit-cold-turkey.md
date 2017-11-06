@@ -55,7 +55,7 @@ The nervous tennis player eventually lost the game.
 
 * My sister **can't resist biting** her fingernails when she gets nervous. 
 
-* My sister **can't help but bit** her fingernails when she gets nervous. 
+* My sister **can't help but bite** her fingernails when she gets nervous. 
 
 
 
