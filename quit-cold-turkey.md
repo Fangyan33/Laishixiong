@@ -12,7 +12,7 @@ J: That's just a excuse.
 
 B: No, It's true. I've tried everything: chewing gum, biting my fingernails and even meditation, but nothing works.  
 
-J: Well, if you want to be with me, you'll have to quit cold turkey.  
+J: Well, if you want to be with me, you'll just have to quit cold turkey.  
 
 B: That's will work!  
 
