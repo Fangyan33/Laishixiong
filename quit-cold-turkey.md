@@ -26,7 +26,7 @@ quit 为不及物动词这里表示戒掉；"cold turkey" 原为名词，表示�
 
 quit + doing sth.  不要再做某事了
 
-Quit asking me so many questions. （不要再问我这么多问题了）
+例: Quit asking me so many questions. （不要再问我这么多问题了）
 
 #### promise  vt. 允诺；n. 诺言
 
