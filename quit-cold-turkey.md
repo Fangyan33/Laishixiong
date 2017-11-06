@@ -14,7 +14,7 @@ B: No, It's true. I've tried everything: chewing gum, biting my fingernails and 
 
 J: Well, if you want to be with me, you'll just have to quit cold turkey.  
 
-B: That's will work!  
+B: That will work!  
 
 ## Key Points
 
