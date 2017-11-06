@@ -20,7 +20,7 @@ B: That's will work!
 
 #### quit cold turkey  断然戒烟
 
-quit 为不及物动词这里表示戒掉；"quit turkey" 原为名词，表示冷火鸡，在此做副词用表示断然的，一次彻底的
+quit 为不及物动词这里表示戒掉；"cold turkey" 原为名词，表示冷火鸡，在此做副词用表示断然的，一次彻底的
 
 例：Trying to quit smoking slowly doesn't work. you've got to quit cold turkey.  
 
