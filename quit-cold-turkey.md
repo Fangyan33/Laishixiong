@@ -6,7 +6,7 @@ Jane is talking to her boyfirend.
 
 J: You promised me that you were going to give up smoking. What's that in your hand?  
 
-B: I'm sorry. I really want to except that I get nervous, I can't help smoking.  
+B: I'm sorry. I really want to except that every time I get nervous, I can't help smoking.  
 
 J: That's just a excuse.  
 
