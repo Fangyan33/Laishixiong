@@ -36,7 +36,6 @@ talk sb into sth.  说服某人....
 
 例: Buby talked his brother into helping him with his homework.
 
-
 #### promise  vt. 允诺；n. 诺言
 
 promise + (人) + that   答应某人做某事
