@@ -28,6 +28,15 @@ quit + doing sth.  不要再做某事了
 
 例: Quit asking me so many questions. （不要再问我这么多问题了）
 
+#### talk to sb.
+
+= talk with sb. (与某人谈话)
+
+talk sb into sth.  说服某人....
+
+例: Buby talked his brother into helping him with his homework.
+
+
 #### promise  vt. 允诺；n. 诺言
 
 promise + (人) + that   答应某人做某事
