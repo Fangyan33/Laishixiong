@@ -47,6 +47,10 @@ make a promise to + 原型动词
 
 * The worker make a promise to be on time for work in future.  
 
+* You promise me that you would meet me at six, but you are late.  
+
+* Ed promise his sister to meet her at six.
+
 #### I really want to except that...
 
 相当于 I really want to ~~give up smoking~~ except that...
