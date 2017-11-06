@@ -50,12 +50,55 @@ The nervous tennis player eventually lost the game.
 = can't resist + doing  （resist 抗拒）
 = can't help but + 动词原型
 
+> 如果help后面+人，can't help **+ 人**  表示不能帮助某人的意思。加动词表示忍不住的意思
+
 例：
 * My sister **can't help biting** her fingernails when she gets nervous. 
 
 * My sister **can't resist biting** her fingernails when she gets nervous. 
 
 * My sister **can't help but bite** her fingernails when she gets nervous. 
+
+#### excuse  n. 借口
+
+Sam had no excuse for failing the exam. 
+
+#### chewing gum  n. 口香糖
+
+a piece/stick of chewing gum
+a pack of chewing gum
+
+#### bite vt. 咬
+
+bit 过去式，bitten 过去分词
+
+例： A snake bit the camper's foot. 
+
+#### fingernail 指甲
+
+#### meditation  n. 打坐；冥想
+
+meditate vi. 打坐；冥想
+
+例：
+* Meditation can help ease one's mind. 
+
+* John meditates for twenty minutes before he goes to bed every day. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
