@@ -49,7 +49,7 @@ make a promise to + 原型动词
 
 * You promise me that you would meet me at six, but you are late.  
 
-* Ed promise his sister to meet her at six.
+* Ed promise his sister to meet at six.
 
 #### I really want to except that...
 
