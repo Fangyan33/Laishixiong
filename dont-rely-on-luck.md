@@ -83,5 +83,43 @@ Let's substitute the new dictionary for the old one.
 
 ## Grammar Points
 
-#### So, to realize their dreams, many students try anything.
+#### to + 原形动词 不定式短语作副词用，表示目的
+
+So, **to realize their dreams**, many students try anything.
+
+to realize 为不定时短语，做副词用，修饰全句。
+
+可放在句首或者句尾，用以表示目的，翻译为 “为了（要）……” 
+
+句首时，后面用逗号连接主句：
+To success in life, you must be determined.
+
+句尾，不需要逗号：
+Peter left home early to avoid the heavy traffic. 
+
+> 表示目的的不定式短语可用下列短语取代
+order to + 原形动词
+so as to + 原形动词
+with a view to + 动名词 （to 在这里是介词，所以要用动名词）
+with an eye to + 动名词（to 在这里是介词，所以要用动名词）
+
+> 除了 so as to 须置于句尾外，其余即可放在句首也可以放在句尾
+
+> 例：
+> 句尾：
+* Ron is saving money to buy a house.  
+* Ron is saving money order to buy a house.
+* Ron is saving money so as to buy a house.
+* Ron is saving money with a view to buying a house.
+* Ron is saving money with a eye to buying a house.
+
+> 句首：
+* To buy a house, Ron is saving money.
+* To buy a house, Ron is saving money. 
+* with a view to buying a house, Ron is saving money.
+* With a eye to buying a house, Ron is saving money.
+* ~~So as to buy a house, Ron is saving money.~~ （X）
+
+
+
 
