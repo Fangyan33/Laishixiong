@@ -131,6 +131,20 @@ Whether it works or not 为名词从句做 know 的宾语，whether 从句放在
 * Whether or not it works, nobody really knows. 
 * Nobody reallay knows whether or not it works.
 
+#### though
+
+Remember, though, you can't always rely on luck. 
+= Remember, however, you can't always rely on luck.
+
+though 在句中间或句尾(前面有逗号)，表示 "不过但是" ，放在句首表示 "虽然尽管"。
+
+做插入语时，放句中或句尾(前面加逗号)：
+* Bruce is an American. He**, though**, acts very Chinese. 
+* Bruce is an American. He acts very Chinese**, though.**
+
+不做插入语，此时为though引导的状语从句，表示 “尽管”，该状语从句也可以放在句尾:
+* Though he is smart, he's not well liked by his classmates. 
+* He's not well liked by his classmates **though he is smart**.
 
 
 
