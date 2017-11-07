@@ -6,4 +6,5 @@
 * [Stop The Noise](stop-the-noise.md)
 * [Health Comes First](health-comes-first.md)
 * [Quit Cold Turkey](quit-cold-turkey.md)
+* [Don't Rely On Luck](dont-rely-on-luck.md)
 
