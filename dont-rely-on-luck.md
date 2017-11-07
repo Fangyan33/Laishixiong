@@ -120,6 +120,21 @@ with an eye to + 动名词（to 在这里是介词，所以要用动名词）
 * With a eye to buying a house, Ron is saving money.
 * ~~So as to buy a house, Ron is saving money.~~ （X）
 
+#### whether 名词从句
+
+Whether it works or not, nobody really knows.
+= Nobody really knows whether it works or not. 
+
+Whether it works or not 为名词从句做 know 的宾语，whether 从句放在句首表示强调。
+
+> Whether 从句后面有 or not 时，可以将其放在 whether 后面
+* Whether or not it works, nobody really knows. 
+* Nobody reallay knows whether or not it works.
+
+
+
+
+
 
 
 
